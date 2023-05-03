@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created theme resource file to connect with manifest for the background color-->
+<resources>
+    <style name="TheTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/myBackground</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created a seprate resource file to hold the hexadecimal color value -->
+<resources>
+    <color name="myBackground">#ff123456</color>
+</resources>

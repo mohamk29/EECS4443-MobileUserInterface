@@ -1,0 +1,8 @@
+ca.yorku.eecs.mack.demotiltball.app-pngs-0 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/build/generated/res/pngs/debug
+ca.yorku.eecs.mack.demotiltball.app-resValues-1 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/build/generated/res/resValues/debug
+ca.yorku.eecs.mack.demotiltball.app-rs-2 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/build/generated/res/rs/debug
+ca.yorku.eecs.mack.demotiltball.app-mergeDebugResources-3 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ca.yorku.eecs.mack.demotiltball.app-mergeDebugResources-4 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ca.yorku.eecs.mack.demotiltball.app-merged_res-5 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/build/intermediates/merged_res/debug
+ca.yorku.eecs.mack.demotiltball.app-debug-6 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/src/debug/res
+ca.yorku.eecs.mack.demotiltball.app-main-7 /Users/mohammadbilal/Desktop/EECS_4443/Demo_TiltBall_46880/app/src/main/res

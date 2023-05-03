@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,8,9,7,10,13,3,11,16,5,18,17,14,15,12,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,344,395,290,442,616,59,496,781,168,886,842,674,726,556,229",
+                        "endColumns": "54,49,45,52,52,56,51,58,59,59,46,42,50,53,58,59",
+                        "endOffsets": "162,389,436,338,490,668,106,550,836,223,928,880,720,775,610,284"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,160,206,259,312,363,415,474,534,594,641,684,735,789,848",
+                        "endColumns": "54,49,45,52,52,50,51,58,59,59,46,42,50,53,58,59",
+                        "endOffsets": "105,155,201,254,307,358,410,469,529,589,636,679,730,784,843,903"
+                    }
+                }
+            ]
+        }
+    ]
+}

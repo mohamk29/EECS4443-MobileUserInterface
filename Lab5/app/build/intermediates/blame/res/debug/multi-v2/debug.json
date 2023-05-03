@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Android_46880/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Android_46880/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Android_46880/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,-1,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1",
+                        "startOffsets": "277,-1,-1,-1,-1,-1",
+                        "endColumns": "55,-1,-1,-1,-1,-1",
+                        "endOffsets": "328,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "112,168,212,260,298,346",
+                        "endColumns": "55,43,47,37,47,68",
+                        "endOffsets": "163,207,255,293,341,410"
+                    }
+                }
+            ]
+        }
+    ]
+}

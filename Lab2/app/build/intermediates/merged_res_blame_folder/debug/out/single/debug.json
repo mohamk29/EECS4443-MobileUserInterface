@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-hdpi_video.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-hdpi/video.png"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/layout_main.xml.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/layout_listviewlayout.xml.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/layout/listviewlayout.xml"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-hdpi_camera.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-hdpi_arrow_right.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/layout_videofullscreen.xml.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/layout/videofullscreen.xml"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/layout_gridviewlayout.xml.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/layout/gridviewlayout.xml"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-hdpi_arrow_left.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-hdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/layout_imageviewer.xml.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/layout/imageviewer.xml"
+    },
+    {
+        "merged": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/build/intermediates/merged_res/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/mohammadbilal/Desktop/EECS_4443/Demo_Camera_46880/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

@@ -1,0 +1,8 @@
+ca.yorku.eecs.mack.demobuttons.app-pngs-0 /Users/duaaali/Downloads/Demo_Buttons_46880/app/build/generated/res/pngs/debug
+ca.yorku.eecs.mack.demobuttons.app-resValues-1 /Users/duaaali/Downloads/Demo_Buttons_46880/app/build/generated/res/resValues/debug
+ca.yorku.eecs.mack.demobuttons.app-rs-2 /Users/duaaali/Downloads/Demo_Buttons_46880/app/build/generated/res/rs/debug
+ca.yorku.eecs.mack.demobuttons.app-mergeDebugResources-3 /Users/duaaali/Downloads/Demo_Buttons_46880/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ca.yorku.eecs.mack.demobuttons.app-mergeDebugResources-4 /Users/duaaali/Downloads/Demo_Buttons_46880/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ca.yorku.eecs.mack.demobuttons.app-merged_res-5 /Users/duaaali/Downloads/Demo_Buttons_46880/app/build/intermediates/merged_res/debug
+ca.yorku.eecs.mack.demobuttons.app-debug-6 /Users/duaaali/Downloads/Demo_Buttons_46880/app/src/debug/res
+ca.yorku.eecs.mack.demobuttons.app-main-7 /Users/duaaali/Downloads/Demo_Buttons_46880/app/src/main/res

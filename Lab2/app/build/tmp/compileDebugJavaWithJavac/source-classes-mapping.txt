@@ -1,0 +1,25 @@
+ca/yorku/eecs/mack/democamera46880/VideoViewerActivity.java
+ ca.yorku.eecs.mack.democamera46880.VideoViewerActivity
+ ca.yorku.eecs.mack.democamera46880.VideoViewerActivity$MyGestureListener
+ca/yorku/eecs/mack/democamera46880/DemoCamera46880Activity.java
+ ca.yorku.eecs.mack.democamera46880.DemoCamera46880Activity
+ ca.yorku.eecs.mack.democamera46880.DemoCamera46880Activity$MyFilenameFilter
+ca/yorku/eecs/mack/democamera46880/ImageAdapter.java
+ ca.yorku.eecs.mack.democamera46880.ImageAdapter
+ca/yorku/eecs/mack/democamera46880/ImageViewerActivity.java
+ ca.yorku.eecs.mack.democamera46880.ImageViewerActivity
+ ca.yorku.eecs.mack.democamera46880.ImageViewerActivity$1
+ ca.yorku.eecs.mack.democamera46880.ImageViewerActivity$MyGestureListener
+ ca.yorku.eecs.mack.democamera46880.ImageViewerActivity$MyScaleGestureListener
+ca/yorku/eecs/mack/democamera46880/ImageDownloader.java
+ ca.yorku.eecs.mack.democamera46880.ImageDownloader
+ ca.yorku.eecs.mack.democamera46880.ImageDownloader$1
+ ca.yorku.eecs.mack.democamera46880.ImageDownloader$2
+ ca.yorku.eecs.mack.democamera46880.ImageDownloader$BitmapDownloaderTask
+ ca.yorku.eecs.mack.democamera46880.ImageDownloader$DownloadedDrawable
+ca/yorku/eecs/mack/democamera46880/ImageListViewerActivity.java
+ ca.yorku.eecs.mack.democamera46880.ImageListViewerActivity
+ ca.yorku.eecs.mack.democamera46880.ImageListViewerActivity$1
+ ca.yorku.eecs.mack.democamera46880.ImageListViewerActivity$MyFilenameFilter
+ca/yorku/eecs/mack/democamera/BuildConfig.java
+ ca.yorku.eecs.mack.democamera.BuildConfig
